@@ -1,0 +1,9 @@
+day,time,tip_pct_mean,n
+Thur,Lunch,16.1,61
+Thur,Dinner,16.0,1
+Fri,Lunch,18.9,7
+Fri,Dinner,15.9,12
+Sat,Lunch,0.0,0
+Sat,Dinner,15.3,87
+Sun,Lunch,0.0,0
+Sun,Dinner,16.7,76
